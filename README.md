@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **next.js**
 
-- 👨‍💻 All of my projects are available at [http](https)
+- 👨‍💻 All of my projects are available 
 
 - 📫 How to reach me **muskan14t7@gmail.com**
 
